@@ -36,7 +36,20 @@ None available.
 ### Controlled study(s) that are more recent
 MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF. The influence of a
 blood conserving device on anaemia in intensive care patients. Anaesth Intensive 
-Care. 2003 Dec;31(6):653-7. PubMed PMID: [4719427](http://pubmed.gov/4719427).
+Care. 2003 Dec;31(6):653-7. PMID: [4719427](http://pubmed.gov/4719427).
+
+Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P. Evaluation of a blood
+conservation strategy in the intensive care unit: a prospective, randomised
+study. Middle East J Anaesthesiol. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069).
+
+Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo
+Dde O, Ribeiro Neto MC, Setoyama TA. Closed system for blood sampling and
+transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010
+Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693).
+
+Tarpey J, Lawler PG. Iatrogenic anaemia? A survey of venesection in patients
+in the intensive therapy unit. Anaesthesia. 1990 May;45(5):396-8. PubMed PMID:
+[2356936](http://pubmed.gov/2356936).
 
 #### Newer controlled study(s) undergoing review
 None
