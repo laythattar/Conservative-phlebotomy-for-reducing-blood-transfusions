@@ -34,7 +34,9 @@ References:
 None available.
 
 ### Controlled study(s) that are more recent
-
+MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF. The influence of a
+blood conserving device on anaemia in intensive care patients. Anaesth Intensive 
+Care. 2003 Dec;31(6):653-7. PubMed PMID: [4719427](http://pubmed.gov/4719427).
 
 #### Newer controlled study(s) undergoing review
 None
